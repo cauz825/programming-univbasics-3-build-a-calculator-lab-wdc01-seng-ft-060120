@@ -29,7 +29,7 @@ mod
 end
 
 def square_root(num)
-root = num.math.sqrt()
+root = num.math.sqrt(num)
 puts root
 root
 end
