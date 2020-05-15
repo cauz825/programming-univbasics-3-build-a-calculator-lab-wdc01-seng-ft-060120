@@ -28,8 +28,8 @@ puts mod
 mod
 end
 
-def square_root(num1)
-root = math.sqrt(num1)
+def square_root(num)
+root = math.sqrt(num)
 puts root
 root
 end
