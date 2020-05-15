@@ -11,7 +11,9 @@ diff
 end
 
 def division(num1, num2)
-div = 
+div = num1 / num2
+puts div
+div
 end
 
 def multiplication(num1, num2)
