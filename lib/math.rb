@@ -29,7 +29,7 @@ mod
 end
 
 def square_root(num)
-square = math.sqrt(num)
-puts square
-square
+root = math.sqrt(num)
+puts root
+root
 end
