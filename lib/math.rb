@@ -17,7 +17,9 @@ div
 end
 
 def multiplication(num1, num2)
-
+prod = num1 * num2
+puts prod
+prod
 end
 
 def modulo(num1, num2)
